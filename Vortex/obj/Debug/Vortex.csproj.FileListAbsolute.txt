@@ -1,0 +1,15 @@
+C:\Users\LOISEAU\Documents\Projet - Navigateur Web\Vortex\Vortex\bin\Debug\Vortex.exe.config
+C:\Users\LOISEAU\Documents\Projet - Navigateur Web\Vortex\Vortex\bin\Debug\Vortex.exe
+C:\Users\LOISEAU\Documents\Projet - Navigateur Web\Vortex\Vortex\bin\Debug\Vortex.pdb
+C:\Users\LOISEAU\Documents\Projet - Navigateur Web\Vortex\Vortex\bin\Debug\MetroFramework.Design.dll
+C:\Users\LOISEAU\Documents\Projet - Navigateur Web\Vortex\Vortex\bin\Debug\MetroFramework.dll
+C:\Users\LOISEAU\Documents\Projet - Navigateur Web\Vortex\Vortex\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\LOISEAU\Documents\Projet - Navigateur Web\Vortex\Vortex\obj\Debug\Vortex.csprojResolveAssemblyReference.cache
+C:\Users\LOISEAU\Documents\Projet - Navigateur Web\Vortex\Vortex\obj\Debug\Vortex.Vortex.resources
+C:\Users\LOISEAU\Documents\Projet - Navigateur Web\Vortex\Vortex\obj\Debug\Vortex.Properties.Resources.resources
+C:\Users\LOISEAU\Documents\Projet - Navigateur Web\Vortex\Vortex\obj\Debug\Vortex.csproj.GenerateResource.Cache
+C:\Users\LOISEAU\Documents\Projet - Navigateur Web\Vortex\Vortex\obj\Debug\Vortex.exe
+C:\Users\LOISEAU\Documents\Projet - Navigateur Web\Vortex\Vortex\obj\Debug\Vortex.pdb
+C:\Users\LOISEAU\Source\Repos\Vortex-Browser\Vortex\bin\Debug\Vortex.exe.config
+C:\Users\LOISEAU\Source\Repos\Vortex-Browser\Vortex\obj\Debug\Vortex.exe
+C:\Users\LOISEAU\Source\Repos\Vortex-Browser\Vortex\obj\Debug\Vortex.pdb
